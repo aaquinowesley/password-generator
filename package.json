@@ -1,0 +1,22 @@
+{
+  "name": "password-generator",
+  "version": "1.0.0",
+  "description": "gerador de senhas",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaquinowesley/password-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaquinowesley/password-generator/issues"
+  },
+  "homepage": "https://github.com/aaquinowesley/password-generator#readme",
+  "dependencies": {
+    "electron": "^18.0.0"
+  }
+}
